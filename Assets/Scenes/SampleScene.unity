@@ -141,10 +141,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a28dc51ae45e0e24b99d4b03abe25567, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreUsuario: 
-  edadUsuario: 0
-  alturaUsuario: 0
-  esDonante: 0
+  nombreUsuario: Jeronimo
+  edadUsuario: 45
+  alturaUsuario: 1.75
+  esDonante: 1
 --- !u!4 &287076663
 Transform:
   m_ObjectHideFlags: 0
@@ -257,7 +257,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1854776729
 MonoBehaviour:
   m_ObjectHideFlags: 0
